@@ -32,7 +32,7 @@
   <a href="https://twitter.com/your_twitter_handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/your_linkedin_handle" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadcode02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/your_instagram_handle" target="_blank">
