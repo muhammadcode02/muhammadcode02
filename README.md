@@ -15,13 +15,37 @@
 
 
 <h2>🚀 About Me</h2>
-<ul>
-  <li>🔭 Currently working on <b>Android Applications</b> and scalable <b>MERN stack projects</b>.</li>
-  <li>🌱 Exploring <b>AI, Machine Learning, and Cloud Computing</b>.</li>
-  <li>💬 Ask me about <b>Full-Stack Development, Android, and DevOps</b>.</li>
-  <li>📫 Reach me at: <b><a href="mailto:www.muhammadfaizan.co@gmail.com">muhammadfaizan.co@gmail.com</a></b>.</li>
-  <li>⚡ Fun fact: Debugging is my cardio!</li>
+<ul style="list-style: none; padding: 0; font-family: 'Arial', sans-serif;">
+  <li style="animation: fadeIn 1.5s;">🔭 Currently working on <b>Android Applications</b> and scalable <b>MERN stack projects</b>.</li>
+  <li style="animation: fadeIn 2s;">🌱 Exploring <b>AI, Machine Learning, and Cloud Computing</b>.</li>
+  <li style="animation: fadeIn 2.5s;">💬 Ask me about <b>Full-Stack Development, Android, and DevOps</b>.</li>
+  <li style="animation: fadeIn 3s;">📫 Reach me at: <b><a href="mailto:muhammadfaizan.co@gmail.com" style="color: purple; text-decoration: none;">muhammadfaizan.co@gmail.com</a></b>.</li>
+  <li style="animation: fadeIn 3.5s;">⚡ Fun fact: Debugging is my cardio!</li>
 </ul>
+
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  ul li {
+    margin: 10px 0;
+    opacity: 0;
+    animation-fill-mode: forwards;
+  }
+  a:hover {
+    color: #6a0dad;
+    text-decoration: underline;
+    transition: color 0.3s ease-in-out;
+  }
+</style>
+
 
 
 <h2>🔗 Connect with Me:</h2>
