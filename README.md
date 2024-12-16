@@ -38,7 +38,7 @@
   <a href="https://instagram.com/your_instagram_handle" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="UC47Q6zYIqOgQ_TaKjkdNXNg" target="_blank">
+  <a href="https://youtube.com/@muhammadcode02?feature=shared" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
   </a>
 </p>
